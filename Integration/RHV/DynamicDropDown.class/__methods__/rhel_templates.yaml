@@ -1,0 +1,12 @@
+---
+object_type: method
+version: 1.0
+object:
+  attributes:
+    name: rhel_templates
+    display_name: rhel_templates
+    description: 
+    scope: instance
+    language: ruby
+    location: inline
+  inputs: []

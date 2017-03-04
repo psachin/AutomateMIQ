@@ -1,0 +1,53 @@
+---
+object_type: class
+version: 1.0
+object:
+  attributes:
+    description: DynamicDropDown
+    display_name: DynamicDropDown
+    name: DynamicDropDown
+    type: 
+    inherits: 
+    visibility: 
+    owner: 
+  schema:
+  - field:
+      aetype: attribute
+      name: rhel_version
+      display_name: 
+      datatype: string
+      priority: 1
+      owner: 
+      default_value: '7'
+      substitute: true
+      message: create
+      visibility: 
+      collect: 
+      scope: 
+      description: RHEL version
+      condition: 
+      on_entry: 
+      on_exit: 
+      on_error: 
+      max_retries: 
+      max_time: 
+  - field:
+      aetype: method
+      name: method1
+      display_name: 
+      datatype: string
+      priority: 2
+      owner: 
+      default_value: ListTemplates
+      substitute: true
+      message: create
+      visibility: 
+      collect: 
+      scope: 
+      description: 
+      condition: 
+      on_entry: 
+      on_exit: 
+      on_error: 
+      max_retries: 
+      max_time: 

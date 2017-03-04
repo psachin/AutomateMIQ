@@ -1,0 +1,13 @@
+---
+object_type: domain
+version: 1.0
+object:
+  attributes:
+    name: AutomateMIQ
+    description: psachin's custom automation
+    display_name: 
+    priority: 2
+    enabled: true
+    tenant_id: 99000000000001
+    source: user
+    top_level_namespace: 
